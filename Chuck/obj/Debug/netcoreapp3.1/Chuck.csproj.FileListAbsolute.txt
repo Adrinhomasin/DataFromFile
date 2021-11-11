@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.exe
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.dll
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\bin\Debug\netcoreapp3.1\Chuck.pdb
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.dll
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.pdb
+C:\Users\opilane\source\repos\LOGITpe21\DataFromFile\Chuck\obj\Debug\netcoreapp3.1\Chuck.genruntimeconfig.cache
